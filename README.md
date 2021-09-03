@@ -1,0 +1,1 @@
+base on `github.com/pkg/errors` to add  `error code`
